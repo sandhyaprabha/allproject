@@ -1,1 +1,1 @@
-# python-project-titenic
+# python-project
